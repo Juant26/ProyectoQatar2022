@@ -1,0 +1,5 @@
+1234567,199.51999999999998,['Beer', 'Water', 'Water', 'Water', 'Fish and Chips', 'Fish and Chips', 'Fish and Chips', 'Fish and Chips', 'Fish and Chips', 'Fish and Chips', 'Fish and Chips', 'Pepsi']
+1234567,69.6,['Beer', 'Beer', 'Hamburger', 'Hamburger', 'Pepsi']
+1234567,23.2,['Fish and Chips']
+1237654,127.59999999999997,['Pepsi', 'Pepsi', 'Pepsi', 'Pepsi', 'Pepsi', 'Pepsi', 'Pepsi', 'Pepsi', 'Pepsi', 'Pepsi', 'Pepsi']
+1234567,17.4,['Hamburger']

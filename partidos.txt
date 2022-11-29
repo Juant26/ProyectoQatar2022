@@ -1,0 +1,48 @@
+id: 1, Equipo Local: Senegal, Equipo Visitante: Netherlands, Fecha y Hora: 11/21/2022 19:00, Estadio: 5
+id: 2, Equipo Local: England, Equipo Visitante: Iran, Fecha y Hora: 11/21/2022 16:00, Estadio: 7
+id: 3, Equipo Local: Qatar, Equipo Visitante: Ecuador, Fecha y Hora: 11/20/2022 19:00, Estadio: 1
+id: 4, Equipo Local: United States, Equipo Visitante: Wales, Fecha y Hora: 11/21/2022 22:00, Estadio: 3
+id: 5, Equipo Local: Argentina, Equipo Visitante: Saudi Arabia, Fecha y Hora: 11/22/2022 13:00, Estadio: 2
+id: 6, Equipo Local: Denmark, Equipo Visitante: Tunisia, Fecha y Hora: 11/22/2022 16:00, Estadio: 6
+id: 7, Equipo Local: Mexico, Equipo Visitante: Poland, Fecha y Hora: 11/22/2022 19:00, Estadio: 8
+id: 8, Equipo Local: France, Equipo Visitante: Australia, Fecha y Hora: 11/22/2022 22:00, Estadio: 4
+id: 9, Equipo Local: Morocco, Equipo Visitante: Croatia, Fecha y Hora: 11/23/2022 13:00, Estadio: 1
+id: 10, Equipo Local: Germany, Equipo Visitante: Japan, Fecha y Hora: 11/23/2022 16:00, Estadio: 7
+id: 11, Equipo Local: Spain, Equipo Visitante: Costa Rica, Fecha y Hora: 11/23/2022 19:00, Estadio: 5
+id: 12, Equipo Local: Belgium, Equipo Visitante: Canada, Fecha y Hora: 11/23/2022 22:00, Estadio: 1
+id: 13, Equipo Local: Brazil, Equipo Visitante: Serbia, Fecha y Hora: 11/24/2022 22:00, Estadio: 2
+id: 14, Equipo Local: Portugal, Equipo Visitante: Ghana, Fecha y Hora: 11/24/2022 19:00, Estadio: 8
+id: 15, Equipo Local: Uruguay, Equipo Visitante: South Korea, Fecha y Hora: 11/24/2022 16:00, Estadio: 6
+id: 16, Equipo Local: Switzerland, Equipo Visitante: Cameroon, Fecha y Hora: 11/24/2022 13:00, Estadio: 4
+id: 17, Equipo Local: Iran, Equipo Visitante: Wales, Fecha y Hora: 11/25/2022 13:00, Estadio: 3
+id: 18, Equipo Local: Qatar, Equipo Visitante: Senegal, Fecha y Hora: 11/25/2022 16:00, Estadio: 5
+id: 19, Equipo Local: Netherlands, Equipo Visitante: Ecuador, Fecha y Hora: 11/25/2022 19:00, Estadio: 7
+id: 20, Equipo Local: England, Equipo Visitante: United States, Fecha y Hora: 11/25/2022 22:00, Estadio: 1
+id: 21, Equipo Local: Tunisia, Equipo Visitante: Australia, Fecha y Hora: 11/26/2022 13:00, Estadio: 4
+id: 22, Equipo Local: Poland, Equipo Visitante: Saudi Arabia, Fecha y Hora: 11/26/2022 16:00, Estadio: 6
+id: 23, Equipo Local: France, Equipo Visitante: Denmark, Fecha y Hora: 11/26/2022 19:00, Estadio: 8
+id: 24, Equipo Local: Argentina, Equipo Visitante: Mexico, Fecha y Hora: 11/26/2022 22:00, Estadio: 2
+id: 25, Equipo Local: Japan, Equipo Visitante: Costa Rica, Fecha y Hora: 11/27/2022 13:00, Estadio: 3
+id: 26, Equipo Local: Belgium, Equipo Visitante: Morocco, Fecha y Hora: 11/27/2022 16:00, Estadio: 5
+id: 27, Equipo Local: Croatia, Equipo Visitante: Canada, Fecha y Hora: 11/27/2022 19:00, Estadio: 7
+id: 28, Equipo Local: Spain, Equipo Visitante: Germany, Fecha y Hora: 11/27/2022 22:00, Estadio: 1
+id: 29, Equipo Local: Serbia, Equipo Visitante: Cameroon, Fecha y Hora: 11/28/2022 13:00, Estadio: 4
+id: 30, Equipo Local: South Korea, Equipo Visitante: Ghana, Fecha y Hora: 11/28/2022 16:00, Estadio: 6
+id: 31, Equipo Local: Brazil, Equipo Visitante: Switzerland, Fecha y Hora: 11/28/2022 19:00, Estadio: 8
+id: 32, Equipo Local: Portugal, Equipo Visitante: Uruguay, Fecha y Hora: 11/28/2022 22:00, Estadio: 2
+id: 33, Equipo Local: England, Equipo Visitante: Wales, Fecha y Hora: 11/29/2022 22:00, Estadio: 3
+id: 34, Equipo Local: Iran, Equipo Visitante: United States, Fecha y Hora: 11/29/2022 22:00, Estadio: 5
+id: 35, Equipo Local: Ecuador, Equipo Visitante: Senegal, Fecha y Hora: 11/29/2022 18:00, Estadio: 7
+id: 36, Equipo Local: Netherlands, Equipo Visitante: Qatar, Fecha y Hora: 11/29/2022 18:00, Estadio: 1
+id: 37, Equipo Local: Denmark, Equipo Visitante: Australia, Fecha y Hora: 11/30/2022 18:00, Estadio: 1
+id: 38, Equipo Local: Tunisia, Equipo Visitante: France, Fecha y Hora: 11/30/2022 18:00, Estadio: 6
+id: 39, Equipo Local: Poland, Equipo Visitante: Argentina, Fecha y Hora: 11/30/2022 22:00, Estadio: 8
+id: 40, Equipo Local: Saudi Arabia, Equipo Visitante: Mexico, Fecha y Hora: 11/30/2022 22:00, Estadio: 1
+id: 41, Equipo Local: Croatia, Equipo Visitante: Belgium, Fecha y Hora: 12/1/2022 18:00, Estadio: 3
+id: 42, Equipo Local: Canada, Equipo Visitante: Morocco, Fecha y Hora: 12/1/2022 18:00, Estadio: 7
+id: 43, Equipo Local: Japan, Equipo Visitante: Spain, Fecha y Hora: 12/1/2022 22:00, Estadio: 1
+id: 44, Equipo Local: Costa Rica, Equipo Visitante: Germany, Fecha y Hora: 12/1/2022 22:00, Estadio: 1
+id: 45, Equipo Local: Ghana, Equipo Visitante: Uruguay, Fecha y Hora: 12/2/2022 18:00, Estadio: 1
+id: 46, Equipo Local: South Korea, Equipo Visitante: Portugal, Fecha y Hora: 12/2/2022 18:00, Estadio: 6
+id: 47, Equipo Local: Serbia, Equipo Visitante: Switzerland, Fecha y Hora: 12/2/2022 22:00, Estadio: 1
+id: 48, Equipo Local: Brazil, Equipo Visitante: Cameroon, Fecha y Hora: 12/2/2022 22:00, Estadio: 2

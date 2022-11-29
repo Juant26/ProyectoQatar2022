@@ -1,0 +1,32 @@
+Nombre del pais: Iran, Codigo FIFA: IRN, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/125px-Flag_of_Iran.svg.png, Grupo: B
+Nombre del pais: England, Codigo FIFA: ENG, Bandera: https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/125px-Flag_of_England.svg.png, Grupo: B
+Nombre del pais: United States, Codigo FIFA: USA, Bandera: https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/125px-Flag_of_the_United_States.svg.png, Grupo: B
+Nombre del pais: Qatar, Codigo FIFA: QAT, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/125px-Flag_of_Qatar.svg.png, Grupo: A
+Nombre del pais: Ecuador, Codigo FIFA: ECU, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/125px-Flag_of_Ecuador.svg.png, Grupo: A
+Nombre del pais: Senegal, Codigo FIFA: SN, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/125px-Flag_of_Senegal.svg.png, Grupo: A
+Nombre del pais: Netherlands, Codigo FIFA: NL, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/125px-Flag_of_the_Netherlands.svg.png, Grupo: A
+Nombre del pais: Argentina, Codigo FIFA: ARG, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/125px-Flag_of_Argentina.svg.png, Grupo: C
+Nombre del pais: Saudi Arabia, Codigo FIFA: KSA, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/125px-Flag_of_Saudi_Arabia.svg.png, Grupo: C
+Nombre del pais: Mexico, Codigo FIFA: MEX, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/125px-Flag_of_Mexico.svg.png, Grupo: C
+Nombre del pais: Poland, Codigo FIFA: POL, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/125px-Flag_of_Poland.svg.png, Grupo: C
+Nombre del pais: France, Codigo FIFA: FRA, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg/125px-Flag_of_France_%281794%E2%80%931815%2C_1830%E2%80%931974%2C_2020%E2%80%93present%29.svg.png, Grupo: D
+Nombre del pais: Australia, Codigo FIFA: AUS, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/125px-Flag_of_Australia_%28converted%29.svg.png, Grupo: D
+Nombre del pais: Denmark, Codigo FIFA: DEN, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/125px-Flag_of_Denmark.svg.png, Grupo: D
+Nombre del pais: Tunisia, Codigo FIFA: TUN, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/125px-Flag_of_Tunisia.svg.png, Grupo: D
+Nombre del pais: Spain, Codigo FIFA: ESP, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/125px-Flag_of_Spain.svg.png, Grupo: E
+Nombre del pais: Costa Rica, Codigo FIFA: CRC, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Costa_Rica_%28state%29.svg/125px-Flag_of_Costa_Rica_%28state%29.svg.png, Grupo: E
+Nombre del pais: Germany, Codigo FIFA: GER, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/125px-Flag_of_Germany.svg.png, Grupo: E
+Nombre del pais: Japan, Codigo FIFA: JPN, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/125px-Flag_of_Japan.svg.png, Grupo: E
+Nombre del pais: Belgium, Codigo FIFA: BEL, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/125px-Flag_of_Belgium.svg.png, Grupo: F
+Nombre del pais: Canada, Codigo FIFA: CAN, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/125px-Flag_of_Canada_%28Pantone%29.svg.png, Grupo: F
+Nombre del pais: Morocco, Codigo FIFA: MAR, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/125px-Flag_of_Morocco.svg.png, Grupo: F
+Nombre del pais: Croatia, Codigo FIFA: CRO, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/125px-Flag_of_Croatia.svg.png, Grupo: F
+Nombre del pais: Brazil, Codigo FIFA: BRA, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/125px-Flag_of_Brazil.svg.png, Grupo: G
+Nombre del pais: Serbia, Codigo FIFA: SRB, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/125px-Flag_of_Serbia.svg.png, Grupo: G
+Nombre del pais: Switzerland, Codigo FIFA: SUI, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Switzerland.svg/100px-Flag_of_Switzerland.svg.png, Grupo: G
+Nombre del pais: Cameroon, Codigo FIFA: CMR, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/125px-Flag_of_Cameroon.svg.png, Grupo: G
+Nombre del pais: Portugal, Codigo FIFA: POR, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/125px-Flag_of_Portugal.svg.png, Grupo: H
+Nombre del pais: Ghana, Codigo FIFA: GHA, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/125px-Flag_of_Ghana.svg.png, Grupo: H
+Nombre del pais: Uruguay, Codigo FIFA: URU, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/125px-Flag_of_Uruguay.svg.png, Grupo: H
+Nombre del pais: South Korea, Codigo FIFA: KOR, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/125px-Flag_of_South_Korea.svg.png, Grupo: H
+Nombre del pais: Wales, Codigo FIFA: WAL, Bandera: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Wales_%281959%29.svg/125px-Flag_of_Wales_%281959%29.svg.png, Grupo: B
